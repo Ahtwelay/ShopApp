@@ -1,6 +1,6 @@
 # myshop
 
-What my app?
+What is my app?
 This App is normal shop app that use firebase authentication.Here app functions
 1.User Login
 2.User Dashboard
