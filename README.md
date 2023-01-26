@@ -19,3 +19,4 @@ As I don't want to use free space so much I upload only necessary files.Follow t
 3.go to terminal and  run these commands 
 flutter run --no-sound-null-safety
 
+You will learn futher,async,await,authentication,providers in flutter.
