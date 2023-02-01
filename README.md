@@ -32,3 +32,7 @@ flutter run --no-sound-null-safety
 ## You wil learn the following  in this project
 
  1.futuer,async,await,authentication,providers in flutter.
+ 
+ 
+ 
+![shop1](https://user-images.githubusercontent.com/95702171/215938697-814eac3a-4506-41d0-a9a5-6027c8746ba7.png)
