@@ -17,7 +17,7 @@ This App is  shop app that use firebase authentication.Here app functions
 AUthentication and database  are by firebase and you will need to change you key and link! 
 
 
-##Getting start
+## Getting start
 
 As I don't want to use free space so much I upload only necessary files.Follow these steps!
 
