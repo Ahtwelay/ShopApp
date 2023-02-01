@@ -29,6 +29,6 @@ As I don't want to use free space so much I upload only necessary files.Follow t
 
 flutter run --no-sound-null-safety
 
-##You wil learn the following concept in this project
+## You wil learn the following  in this project
 
  1.futuer,async,await,authentication,providers in flutter.
