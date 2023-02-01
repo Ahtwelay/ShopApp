@@ -40,7 +40,7 @@ As I don't want to use free space so much I upload only necessary files.Follow t
 
 Sign Up Screen
 
-![shop7](https://user-images.githubusercontent.com/95702171/215954431-73aed986-bd92-4b2f-a5e4-35e00a221aaa.jpg)
+![shop7](https://user-images.githubusercontent.com/95702171/215956243-644419e4-f9b9-445b-a915-2baf7990bba7.jpg)
 
 while image loading 
 
@@ -48,39 +48,40 @@ while image loading
 
 mian screen
 
-![shop9](https://user-images.githubusercontent.com/95702171/215954761-25e62a88-271f-466f-9aaa-45c2808948c0.jpg)
+![shop9](https://user-images.githubusercontent.com/95702171/215956211-5e71f0ba-7d0b-4dd2-a71d-ef8bd7b0ec9d.jpg)
 
+![shop4](https://user-images.githubusercontent.com/95702171/215956202-63aa7ada-2af6-4ca0-978e-694a48602c89.jpg)
 
-![shop4](https://user-images.githubusercontent.com/95702171/215954794-153381ca-1dc9-45bf-bcae-7bac2b948741.jpg)
 
 Detail Screen
 
-![shop8](https://user-images.githubusercontent.com/95702171/215954823-14726067-6252-470b-bda8-8018040234ad.jpg)
+![shop8](https://user-images.githubusercontent.com/95702171/215956176-02ccae4d-1b51-4261-a5b2-cd6fcac68663.jpg)
 
 Favorite
 
-![shop13](https://user-images.githubusercontent.com/95702171/215954910-1f4a734a-3c86-40f7-95b1-0b8c49f9543f.jpg)
+![shop13](https://user-images.githubusercontent.com/95702171/215956159-a98aa8f4-e930-4dfd-805a-5de98851a74e.jpg)
 
 
 Drawer
 
-![shop11](https://user-images.githubusercontent.com/95702171/215954922-7bea08e4-1099-4390-8299-4012687639cf.jpg)
+![shop11](https://user-images.githubusercontent.com/95702171/215956132-37e76b27-c036-41e6-9031-64a70aa7256e.jpg)
 
 Your product
 
-![shop15](https://user-images.githubusercontent.com/95702171/215954964-b7f8fb65-02c9-48cc-a28d-8b347783ef5d.jpg)
+![shop15](https://user-images.githubusercontent.com/95702171/215956112-6d26f7d1-7d01-4b53-9ffa-ba99eb326486.jpg)
+
 
 Add product or edit
 
-![shop10](https://user-images.githubusercontent.com/95702171/215954987-eb5f783d-b468-4039-b3b6-99e6aeb065f5.jpg)
+![shop10](https://user-images.githubusercontent.com/95702171/215956070-be6971f8-a040-41f9-a8b0-6495c6fa3881.jpg)
 
 Order  Screen
 
-![shop12](https://user-images.githubusercontent.com/95702171/215955032-75e5af44-1557-44d4-a0cc-34c84bfd0b7f.jpg)
+![shop12](https://user-images.githubusercontent.com/95702171/215956048-6b4538c7-02d4-4455-8b28-124ce5bd754f.jpg)
 
 My Order
 
-![shop14](https://user-images.githubusercontent.com/95702171/215955081-3a20aeee-b955-4dbc-a588-596cc76615cd.jpg)
+![shop14](https://user-images.githubusercontent.com/95702171/215956014-77c711cf-b5e9-428b-bdf7-41ccf85cd07b.jpg)
 
 Logout
 
