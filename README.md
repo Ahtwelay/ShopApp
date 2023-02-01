@@ -57,21 +57,21 @@ Detail Screen
 
 ![shop8](https://user-images.githubusercontent.com/95702171/215956176-02ccae4d-1b51-4261-a5b2-cd6fcac68663.jpg)
 
-Favorite
+Favorite Screen
 
 ![shop13](https://user-images.githubusercontent.com/95702171/215956159-a98aa8f4-e930-4dfd-805a-5de98851a74e.jpg)
 
 
-Drawer
+Drawer Screen
 
 ![shop11](https://user-images.githubusercontent.com/95702171/215956132-37e76b27-c036-41e6-9031-64a70aa7256e.jpg)
 
-Your product
+Your product Screen
 
 ![shop15](https://user-images.githubusercontent.com/95702171/215956112-6d26f7d1-7d01-4b53-9ffa-ba99eb326486.jpg)
 
 
-Add product or edit
+## Add product or edit Screen
 
 ![shop10](https://user-images.githubusercontent.com/95702171/215956070-be6971f8-a040-41f9-a8b0-6495c6fa3881.jpg)
 
@@ -79,10 +79,10 @@ Order  Screen
 
 ![shop12](https://user-images.githubusercontent.com/95702171/215956048-6b4538c7-02d4-4455-8b28-124ce5bd754f.jpg)
 
-My Order
+My Order Screen
 
 ![shop14](https://user-images.githubusercontent.com/95702171/215956014-77c711cf-b5e9-428b-bdf7-41ccf85cd07b.jpg)
 
-Logout
+Logout Screen
 
 ![shop1](https://user-images.githubusercontent.com/95702171/215955112-b2f77b6d-0b3e-4b5f-9adf-0eba01d3166c.png)
