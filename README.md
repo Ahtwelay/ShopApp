@@ -46,7 +46,7 @@ Sign Up Screen
 
 ![shop3](https://user-images.githubusercontent.com/95702171/215954646-53607729-d1fa-4494-9d21-37cccb10ee48.png)
 
-## mian screen
+## main screen
 
 ![shop9](https://user-images.githubusercontent.com/95702171/215956211-5e71f0ba-7d0b-4dd2-a71d-ef8bd7b0ec9d.jpg)
 
