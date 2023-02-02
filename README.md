@@ -31,7 +31,7 @@ As I don't want to use free space so much I upload only necessary files.Follow t
 
 ## You wil learn the following  in this project
 
- 1.futuer,async,await,authentication,providers in flutter.
+ 1.future,async,await,authentication,providers in flutter.
  
  
 ## Login Screen
