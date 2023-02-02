@@ -86,3 +86,14 @@ Sign Up Screen
 ## Logout Screen
 
 ![shop1](https://user-images.githubusercontent.com/95702171/215955112-b2f77b6d-0b3e-4b5f-9adf-0eba01d3166c.png)
+
+## Firebase
+
+## Authentication
+
+![shopfirebase2](https://user-images.githubusercontent.com/95702171/216230800-61d4679a-5d79-49c3-a6d4-5d84a4c37762.png)
+
+## Realtime Database
+
+![shopfirebase1](https://user-images.githubusercontent.com/95702171/216230879-680d2cc4-a6cd-4550-996a-8fe9660af448.png)
+
